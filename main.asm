@@ -1,5 +1,5 @@
 ###########################################################################
-#  Name: Isabella Maffeo
+#  Name: Isabella
 #  Assignment: MIPS #5
 #  Description:  Using a recursive algorithm determine the max value (price)
 #				 for cutting a rod in sections, wherein the growth of the 
